@@ -4,9 +4,10 @@
 This application is built using React, Typescript, and Styled Components. It includes a payout history page with server-side pagination for fetch and client-side pagination for search. The application uses custom hooks for fetching and searching data, axios for backend communication, and various React hooks such as useEffect, useCallback, and useDebounce.
 
 ### How to Run
-# To run the application, use the following command:
-$ npm start
-
+To run the application, use the following command:
+```bash
+npm start
+```
 
 ### Technologies Used
 - React
